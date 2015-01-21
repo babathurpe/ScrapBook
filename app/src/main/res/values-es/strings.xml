@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapBook</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="sarnia_bridge">Puente de Sarnia</string>
+    <string name="college_pool">Colegio piscina</string>
+    <string name="imperial">Sarnia Teatro Imperial</string>
+    <string name="overview">Puente de Bluewater</string>
+
+</resources>
