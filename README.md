@@ -1,5 +1,5 @@
 # ScrapBook app for Android
-An grid view of images with text and translations to spanish 
+A grid view of images with text and translations to spanish 
 
 ##Features
 
