@@ -1,7 +1,7 @@
-# ScrapBook
-An app for Android
+# ScrapBook app for Android
+An grid view of images with text and translations to spanish 
 
-Features
+##Features
 
 * Spanish Translation
 * TalkBack - not tested
